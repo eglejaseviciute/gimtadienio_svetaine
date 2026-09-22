@@ -181,23 +181,7 @@ paleidžiamas konfeti efektas.
 
 ---
 
-# Kaip paleisti svetainę kompiuteryje?
-
-Yra keli būdai.
-
-## Būdas 1 – atidaryti `index.html`
-
-Jeigu visi reikalingi failai yra viename aplanke, galima tiesiog dukart paspausti:
-
-```text
-index.html
-```
-
-Failas bus atidarytas numatytoje interneto naršyklėje.
-
----
-
-## Būdas 2 – naudoti GitHub Pages
+# Kaip paleisti svetainę kompiuteryje naudoti GitHub?
 
 Tai rekomenduojamas būdas, jeigu norima svetaine pasidalinti su kitu žmogumi.
 
@@ -272,7 +256,7 @@ Atsisiuntus ZIP failą reikia:
 1. Išskleisti ZIP failą.
 2. Atidaryti atsiradusį aplanką.
 3. Jame rasti `index.html`.
-4. Atidaryti `index.html` su naršykle.
+4. Atidaryti `index.html` su naršykle (du kartus spustelėti `index.html` failą).
 
 Svarbu išlaikyti visus failus tame pačiame aplanke.
 
