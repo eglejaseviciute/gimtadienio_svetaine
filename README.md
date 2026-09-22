@@ -391,7 +391,7 @@ Auk didute, būk gerutė. Myliu, bučiuoju, širdelei nešioju!
 
 ---
 
-# 💃 Kaip pakeisti viktorinos klausimus?
+# Kaip pakeisti viktorinos klausimus?
 
 Klausimai saugomi JavaScript dalyje:
 
