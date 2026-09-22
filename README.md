@@ -181,7 +181,7 @@ paleidžiamas konfeti efektas.
 
 ---
 
-# Kaip paleisti svetainę kompiuteryje naudoti GitHub?
+# Kaip paleisti svetainę kompiuteryje naudojant GitHub?
 
 Tai rekomenduojamas būdas, jeigu norima svetaine pasidalinti su kitu žmogumi.
 
